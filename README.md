@@ -2,3 +2,5 @@
 (cloud computing Application)
 (semester project)
 
+docker
+ngnix
